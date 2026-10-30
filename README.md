@@ -5,13 +5,10 @@ same conventions the Data Science team uses. By the last day your group presents
 its own equity curve against EGX30.
 
 ## The arc
-- **Week 1** — become a programmer who ships: version control, a full-stack
-  dashboard, market data, indicators, backtesting.
+- **Week 1** — full-stack dashboard, market data, indicators, backtesting.
 - **Week 2** — try to predict prices with neural nets. Discover it isn't enough.
 - **Week 3** — reframe: an agent that manages a portfolio to beat the index.
 
-Everything you build in week 1 becomes part of the week 3 system. Same data,
-same benchmark, same engine — you just change who chooses the weights.
 
 ## Layout
 - `learn/` — the concept for the first part of each day (slides / HTML)
