@@ -1,8 +1,4 @@
-# EFG Data Science — Algorithmic Trading Internship
-
-Three weeks. You will build a real algorithmic trading system end to end, on the
-same conventions the Data Science team uses. By the last day your group presents
-its own equity curve against EGX30.
+# Algorithmic Trading project
 
 ## The arc
 - **Week 1** — full-stack dashboard, market data, indicators, backtesting.
@@ -18,12 +14,3 @@ its own equity curve against EGX30.
 - `notebooks/` — exploration and Colab RL training
 - `dashboard/` — your product: FastAPI backend + JS frontend
 - `data/` — committed EGX price CSVs and the EGX30 benchmark
-
-## Key docs
-- `SETUP.md` — install everything (Windows + macOS), from zero
-- `WORKFLOW.md` — how we work: git, branches, groups, roles
-- `CONCEPTS.md` — one-line glossary of every term
-- `learn/` — the concept for each day (HTML)
-
-## Start here
-Read `SETUP.md` and get your machine ready **before** day 1.
